@@ -6,5 +6,6 @@ namespace FiveHundred.Core.Model
 {
     public interface Player
     {
+        string Name { get; }
     }
 }
